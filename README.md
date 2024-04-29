@@ -5,13 +5,13 @@ well as writing automation scripts/modules & backend integrations. Multi-cloud c
 demonstrated ability to quickly adapt to new technologies, continually learning to be better than yesterday.
 
 # Skills
-##### Programming Languages:
+#### Programming Languages:
 ![](https://img.shields.io/badge/Programming-Python-blue)
 ![](https://img.shields.io/badge/Programming-JavaScript-yellow)
 ![](https://img.shields.io/badge/Programming-Go-lightblue)
 ![](https://img.shields.io/badge/Programming-C++-blueviolet) 
 
-##### DevOps:
+#### DevOps:
 ![](https://img.shields.io/badge/Cloud-AWS-yellow)
 [![](https://img.shields.io/badge/Cloud-GCP-blue) 🔗](https://github.com/rbnhd/pipeline-webapp-x) &nbsp;
 ![](https://img.shields.io/badge/Cloud-Azure-blue)
@@ -35,7 +35,7 @@ demonstrated ability to quickly adapt to new technologies, continually learning 
 [![](https://img.shields.io/badge/Machine_Learning-ML-blue) 🔗](https://github.com/rbnhd/Travel-Time-Optimization-using-Machine-Learning) &nbsp;
 [![](https://img.shields.io/badge/Artificial_Intelligence-AI-blueviolet) 🔗](https://github.com/rbnhd/Music-Recommendation-System) &nbsp;
 
-##### Languages Spoken
+#### Languages Spoken
 ![](https://img.shields.io/badge/Language-English-brightgreen)
 ![](https://img.shields.io/badge/Language-Japanese-red)
 ![](https://img.shields.io/badge/Language-Hindi-blue)
