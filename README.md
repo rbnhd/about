@@ -61,7 +61,7 @@ demonstrated ability to quickly adapt to new technologies, continually learning 
 
 
 ###  Thanks for visiting my page. Have a Good day
-###  ページを訪れてくれてありがとう。良い一日を過ごし下さい
+###  ページをご覧になってありがとうございます。良い一日を過ごし下さい
 
 
 <!-- MARKDOWN LINKS & IMAGES -->
