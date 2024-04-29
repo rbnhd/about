@@ -1,6 +1,3 @@
-### Hello fellow internet stranger. Nice to meet you. 
-
-
 ## Connect with me
 [![LinkedIn][linkedin-shield]][linkedin-url]  
 
