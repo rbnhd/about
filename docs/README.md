@@ -50,7 +50,7 @@ demonstrated ability to quickly adapt to new technologies, continually learning 
 
 
 
-## Connect
+# Connect
 [![LinkedIn][linkedin-shield]][linkedin-url]  
 
 
