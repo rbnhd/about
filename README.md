@@ -54,10 +54,6 @@ demonstrated ability to quickly adapt to new technologies, continually learning 
 [![LinkedIn][linkedin-shield]][linkedin-url]  
 
 
-## Resume
-#### [Resume (English)](./pdf/resume-eng.pdf)
-
-#### [履歴書 (Japanese)](./pdf/resume-jp.pdf)
 
 
 ###  Thanks for visiting my page. Have a Good day
