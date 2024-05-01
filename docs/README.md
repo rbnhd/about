@@ -1,7 +1,7 @@
 # About me
 DevOps Engineer  with experience of end-to-end DevOps lifecycle; Cloud
 Architecting; & Backend Development. I love creating Scalable, Reliable & Highly available solutions as
-well as writing automation scripts/modules & backend integrations. Multi-cloud certified with a
+well as writing automation scripts/modules & Cloud-backend integrations. Multi-cloud certified with a
 demonstrated ability to quickly adapt to new technologies, continually learning to be better than yesterday.
 
 # Skills
