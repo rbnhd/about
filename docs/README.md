@@ -17,12 +17,12 @@ demonstrated ability to quickly adapt to new technologies, continually learning 
 ![](https://img.shields.io/badge/Cloud-Azure-blue)
 [![](https://img.shields.io/badge/IaC-Terraform-purple) 🔗](https://github.com/rbnhd/pipeline-webapp-x) &nbsp;
 [![](https://img.shields.io/badge/Cloud_Architect-blue?style=flat&logo=architecture) 🔗](https://google.accredible.com/8afaa873-0aa9-4a4d-8f5f-0545880a464f) &nbsp;
-![](https://img.shields.io/badge/Cloud_Developer-blue?style=flat&logo=develop)
+[![](https://img.shields.io/badge/Cloud_Developer-blue?style=flat&logo=develop)🔗](https://www.credly.com/badges/7ecc772a-1bd3-4e30-8f58-95348a243341)
 <br>
 [![](https://img.shields.io/badge/DevOps-CI%2FCD-brightgreen)🔗 ](https://google.accredible.com/d6e493f1-23c4-4d96-9cce-069912a3f27c) &nbsp;
 ![](https://img.shields.io/badge/DevOps-Git-orange)
 [![](https://img.shields.io/badge/Container-Docker-blue) 🔗](https://github.com/rbnhd/ask-out-crush) &nbsp;
-![](https://img.shields.io/badge/Orchestration-Kubernetes-blue)
+[![](https://img.shields.io/badge/Orchestration-Kubernetes-blue)🔗](https://github.com/rbnhd/pipeline-eks-app)
 ![](https://img.shields.io/badge/CI_Tool-Jenkins-red)
 [![](https://img.shields.io/badge/SRE-Principles-lightgrey)🔗 ](https://google.accredible.com/d6e493f1-23c4-4d96-9cce-069912a3f27c)
 <br>
