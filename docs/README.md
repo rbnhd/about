@@ -1,3 +1,6 @@
+
+#### *(last updated: Jul 9, 2024)*
+
 # About me
 DevOps Engineer  with experience of end-to-end DevOps lifecycle; Cloud
 Architecting; & Backend Development. I love creating Scalable, Reliable & Highly available solutions as
